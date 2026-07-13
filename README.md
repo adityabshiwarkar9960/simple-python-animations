@@ -1,4 +1,4 @@
-# 🐢 Python Turtle Animations
+# Python Practice on Turtle Library
 
 A collection of creative animations and drawings built using Python's built-in **Turtle Graphics** library. This repository showcases basic computer graphics concepts while practicing Python programming fundamentals such as loops, functions, recursion, and mathematical patterns.
 
